@@ -1,3 +1,4 @@
+```
 ~/Code/storybook-test   main ✚  npx sb@next info
 
 Environment Info:
@@ -15,3 +16,4 @@ Environment Info:
     Safari: 14.1.1
   npmPackages:
     @storybook/html: ^6.2.9 => 6.2.9
+```
